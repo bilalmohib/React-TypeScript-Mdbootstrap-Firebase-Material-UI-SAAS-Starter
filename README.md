@@ -1,6 +1,13 @@
 # Getting Started with React-TypeScript-Mdbootstrap-Firebase-Material-UI-SAAS-Boiler-Plate
 
-### This project Consists of React-TypeScript-Mdbootstrap-Firebase-Firestore-Firebase Real Time Database-Material-UI-SAAS
+### This project Consists of 
+- React
+- TypeScript
+- Mdbootstrap 
+- Firebase 
+- Firestore
+- Firebase Real Time Database
+- Material-UI-SAAS
 
 # Available Scripts
 
