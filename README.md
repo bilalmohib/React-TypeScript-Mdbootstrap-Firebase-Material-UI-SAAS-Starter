@@ -1,4 +1,4 @@
-# Getting Started with React-TypeScript-Mdbootstrap-Firebase-Material-UI-SAAS-Boiler-Plate
+# Getting Started with React-TypeScript-Mdbootstrap-Firebase-Material-UI-SAAS-Starter
 
 ### This project Consists of 
 - React
