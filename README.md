@@ -9,6 +9,12 @@
 - Firebase Real Time Database
 - Material-UI-SAAS
 
+To start using firebase go to `https://console.firebase.google.com/u/0/`
+
+and then go to project settings after adding a webapp for your firebase and enabling database and other things you want to use Add your firebase credentials to `src/firebase/index.js`
+
+Its upto you.You can add an .env in the root of your project directory also
+
 # Available Scripts
 
 ## Installation
